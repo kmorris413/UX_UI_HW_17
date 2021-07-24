@@ -10,7 +10,6 @@ body {
 }
 
 .logo {
-    width: 23%;
     padding: 1%;
 }
 .center {
@@ -22,13 +21,14 @@ body {
 .center a {
     color:#E1E5F2;
     padding: 10px;
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
 }
 
-.heroImg {
-    height: 600px;
-    padding: 50px;
+.heroSection {
+    height: 500px;
+    padding: 150px;
+    text-align: center;
 }
 .picofMe {
     display: block;
@@ -43,7 +43,6 @@ h1 {
 p {
     color: #022B3A;
     font-size: 20px;
-    width: 700px;
 }
 .footer {
     display: flex;
@@ -55,7 +54,7 @@ p {
 .footer a {
     color: #E1E5F2;
     padding: 10px;
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
 }
 
